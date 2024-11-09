@@ -1,0 +1,38 @@
+{
+  "project_info": {
+    "project_number": "346021167433",
+    "project_id": "llmapp-b6ed9",
+    "storage_bucket": "llmapp-b6ed9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:346021167433:android:e2a61ebb53fa9e835e1a98",
+        "android_client_info": {
+          "package_name": "app.pixel.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "346021167433-j5oh14crcm65k4dmrk1knupffcvk40ud.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "app.pixel.myapplication",
+            "certificate_hash": "15dbc945ee98649ecd1a566b9966006b6dcdfc5f"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFSyfNEKqhQCW8Rcjr2SirJ1Nvh8sTQbw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
