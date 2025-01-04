@@ -23,3 +23,7 @@
 پروژه Firebase: یک پروژه Firebase ایجاد کرده و سپس یک service account به پروژه خود اضافه کنید و فایل کلید را دانلود کنید. https://console.firebase.google.com/ \
 کلید service account خود را به صورت یک فایل raw در مسیر raw/service_account.json قرار دهید.\
 
+## Screenshots
+
+![App Screenshot](https://github.com/SoheilMirzavi/Android-LLM/blob/main/Screenshots/1.jpg)
+
