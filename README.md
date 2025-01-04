@@ -28,4 +28,5 @@
 ![App Screenshot](https://github.com/SoheilMirzavi/Android-LLM/blob/main/Screenshots/1.jpg)
 ![App Screenshot](https://github.com/SoheilMirzavi/Android-LLM/blob/main/Screenshots/2.jpg)
 ![App Screenshot](https://github.com/SoheilMirzavi/Android-LLM/blob/main/Screenshots/3.jpg)
+![App Screenshot](https://github.com/SoheilMirzavi/Android-LLM/blob/main/Screenshots/4.jpg)
 
