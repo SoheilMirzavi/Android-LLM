@@ -21,7 +21,8 @@
 کلید API گوگل Gemini: کلید API خود را از Google AI Studio دریافت کنید. https://aistudio.google.com/apikey \
 کلید API دریافت شده را در فایل MainActivity.kt جایگزین کنید. private var geminiAPIKey = "کلید API خود را اینجا قرار دهید"\
 پروژه Firebase: یک پروژه Firebase ایجاد کرده و سپس یک service account به پروژه خود اضافه کنید و فایل کلید را دانلود کنید. https://console.firebase.google.com/ \
-کلید service account خود را به صورت یک فایل raw در مسیر raw/service_account.json قرار دهید.\
+کلید service account خود را به صورت یک فایل raw در مسیر raw/service_account.json قرار دهید. \
+.
 
 ## Screenshots
 
